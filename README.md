@@ -1,3 +1,5 @@
+<img width="1388" height="400" alt="image" src="https://github.com/user-attachments/assets/a6b3540a-893a-475a-97fa-c4bd43d750de" />
+
 # pwsm — Persistent Windows Service Manager
 
 pwsm lets you run any executable or script as a persistent Windows service. Define your service in a YAML config file, and pwsm handles registration, lifecycle management, crash recovery, and logging — similar to how systemd works on Linux.
