@@ -196,4 +196,4 @@ Each service is an independent SCM entry pointing to the same `pwsm.exe` binary 
 
 ## License
 
-MIT
+GPL-3.0
