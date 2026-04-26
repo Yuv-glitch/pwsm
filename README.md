@@ -68,6 +68,7 @@ C:\ProgramData\pwsm\
 ### 2. Create a config file
 
 Create a `.yaml` file in `C:\ProgramData\pwsm\services\`. The filename is your service name.
+Note: ProgramData is a hidden folder
 
 Example — `C:\ProgramData\pwsm\services\myserver.yaml`:
 
