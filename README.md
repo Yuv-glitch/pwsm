@@ -35,7 +35,7 @@ go build -o pwsm.exe .
 
 ### Download prebuilt binary
 
-Download the latest `pwsm.exe` from [Releases](https://github.com/yourusername/pwsm/releases) and place it somewhere on your PATH, e.g. `C:\ProgramData\pwsm\`.
+Download the latest `pwsm.exe` from [Releases](https://github.com/yourusername/pwsm/releases) and place it somewhere on your PATH or run the binary from it's folder with an elevated powershell 
 
 > **Note:** After downloading or building, you may need to unblock the binary:
 > ```powershell
